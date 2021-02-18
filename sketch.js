@@ -9,8 +9,8 @@ var flag = false
 
 function preload(){
 //door_opening = loadAnimation("img1.png","img2.png","img3.png","img4.png","img5.png")
-doorImage = loadAnimation("img1.png")
-doorImage2 = loadAnimation("img5.png")
+doorImage = loadAnimation("Img1.png")
+doorImage2 = loadAnimation("Img5.png")
 
 gameMusic = loadSound("GameSound.mp3")
 
